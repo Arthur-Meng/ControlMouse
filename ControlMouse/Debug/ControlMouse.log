@@ -1,0 +1,9 @@
+﻿  ControlMouseDlg.cpp
+c:\users\arthur\desktop\controlmouse\controlmouse\controlmousedlg.cpp(95): warning C4244: “初始化”: 从“TX_REAL”转换到“float”，可能丢失数据
+c:\users\arthur\desktop\controlmouse\controlmouse\controlmousedlg.cpp(97): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\arthur\desktop\controlmouse\controlmouse\controlmousedlg.cpp(100): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+c:\users\arthur\desktop\controlmouse\controlmouse\controlmousedlg.cpp(101): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+c:\users\arthur\desktop\controlmouse\controlmouse\controlmousedlg.cpp(102): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+c:\users\arthur\desktop\controlmouse\controlmouse\controlmousedlg.cpp(103): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+  ControlMouse.vcxproj -> C:\Users\Arthur\Desktop\ControlMouse\Debug\ControlMouse.exe
+  ControlMouse.vcxproj -> C:\Users\Arthur\Desktop\ControlMouse\Debug\ControlMouse.pdb (Partial PDB)
